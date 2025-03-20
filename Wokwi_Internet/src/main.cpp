@@ -13,7 +13,7 @@ const char* ssid = "Wokwi-GUEST";
 const char* password = "";
 
 // Ganti dengan URL API yang benar
-const char* serverUrl = "http://3024-175-45-190-5.ngrok-free.app/api/posts"; 
+const char* serverUrl = "http://b911-140-213-58-90.ngrok-free.app/api/posts"; 
 
 unsigned long previousMillis = 0;
 const long interval = 5000;  // Interval 5 detik (5000 ms)
